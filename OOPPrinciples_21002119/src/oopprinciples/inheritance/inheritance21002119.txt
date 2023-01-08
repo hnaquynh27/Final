@@ -1,0 +1,9 @@
+Kết quả chạy:
+I eat meat
+I speak like: Meow
+
+Process finished with exit code 0
+
+Ở đây, mickey là một đối tượng của Cat. Tuy nhiên, speak() là thành viên của lớp Animal.
+Do Cat kế thừa trường và phương thức từ Animal nên chúng ta có thể truy cập trường và phương thức bằng cách sử dụng đối tượng của Cat.
+Ngoài ra trong lớp con có thể tự tạo thêm phương thức mới, ví dụ như eat().

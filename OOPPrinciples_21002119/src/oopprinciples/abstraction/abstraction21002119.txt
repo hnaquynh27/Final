@@ -1,0 +1,13 @@
+Kết quả chạy:
+Call shape
+Call circle
+Call shape
+Call rectangle
+The color of the circle is Blue and its area is : 50.26548245743669
+Color of the rectangle is Black and its area is : 45.0
+
+Process finished with exit code 0
+
+Ta định nghĩa một lớp cha khai báo cấu trúc của một sự trừu tượng hóa nhất định mà không cung cấp một triển khai đầy đủ cho mọi phương thức, trong đây là:
+abstract double area();
+public abstract String toString();

@@ -1,0 +1,4 @@
+Kết quả chạy: Meow meow
+
+              Process finished with exit code 0
+Vì Kitten không ghi đè phương thức speak() nên phương thức speak() của lớp Cat (lớp cha) được gọi

@@ -1,0 +1,9 @@
+Kết quả chạy:
+Nguyen Van A
+01
+02
+
+Process finished with exit code 0
+
+Đóng gói cũng được sử dụng để bảo vệ trạng thái bên trong của một đối tượng.
+Ở đây các thuộc tính được để là private và muốn truy  phải sử dụng các phương thức getter và setter của nó.
